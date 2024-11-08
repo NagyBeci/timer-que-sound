@@ -1,5 +1,9 @@
 # 🕒 Customizable Timer
 
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green.svg)](https://pypi.org/project/PyQt5/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## 📝 Overview
 
 A customizable timer application built with PyQt5, featuring a timer queue, circular progress bar, and custom notification sounds.
